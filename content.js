@@ -12,7 +12,7 @@ const portfolio = {
   csdn: "https://blog.csdn.net/Lym1562617?type=blog",
   gitee: "https://gitee.com/liu-yimeng071220",
   resumeUrl: "",
-  studyHours: "180+",
+  studyHours: "200+",
   skillCount: "06",
   about: "我正在系统学习 Python 数据采集与自动化。每个项目都从一个具体问题出发，完成从抓取、清洗到可视化展示的完整流程。",
   skills: ["Python", "Requests", "Beautiful Soup", "Selenium", "Pandas", "SQL"],
